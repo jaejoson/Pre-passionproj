@@ -1,4 +1,4 @@
-#Nation Of Novels app
+#Nation Of Novels app/web
 
 ### #TrackThemBooks
 
@@ -13,9 +13,8 @@
 That is an easy solution if you live in one easily accessible area, 
 don't have too many books, have a photographic memory, or so on and so forth. But what if you don't
 have those abilities? What if you could not only have a way to keep track of those treasures of knowledge, 
-but also log your progress? No more questioning if you have ever read the book, or if you
-are able to read the sequel because you can't remember the first one, or if you even
-the book of interest in your possession at all. 
+but also log your progress? **No more** questioning if you have ever read the book, **no more** questioning if you
+read the first novel in a series, and **no more** questioning if you even have the book of interest in your possession at all. 
 
 *With the Nation of Novels app, 
 you'll be able to focus on the adventure on the pages instead of the logistics of book-buying in real life. 
