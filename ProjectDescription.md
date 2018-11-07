@@ -1,4 +1,4 @@
-#Nation Of Novels app/web
+#Nation Of Novels app
 
 ### #TrackThemBooks
 
@@ -22,4 +22,4 @@ Enjoy the escape!*
 
 ![image](https://ctl.s6img.com/society6/img/WTKcfTlaAJQhNtYMDehgPZUzDuo/w_700/coffee-mugs/swatch/~artwork,fw_4600,fh_2000,iw_4600,ih_2000/s6-0091/a/35518398_13587906/~~/too-many-books-pink-rm3-mugs.jpg)
 
-jaejoson (Jae Joson)
+jaejoson (Jae Joson) - random change to submit again
